@@ -24,7 +24,7 @@ I also delved into object-oriented programming (OOP) in Python. I learned how to
 I explored popular data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn. These libraries are essential for data manipulation, analysis, visualization, and statistical modeling. Through hands-on exercises and projects, I gained a solid understanding of these libraries and their applications in real-world scenarios.
 
 8. Employee Classification Dataset:
-As part of my practical training, I worked on an employee classification dataset. This project involved using various machine learning techniques to predict whether an employeed will be fired or not. It allowed me to apply my knowledge of data science and machine learning to a real-world problem.
+As part of my practical training, I worked on an employee classification dataset. This project involved using various machine learning techniques to predict whether an employee will be fired or not. It allowed me to apply my knowledge of data science and machine learning to a real-world problem.
 
 9. Flower Classification:
 I also worked on a deep learning project. This project involved using VGG-16 deep learning model to classify 5 different flowers. It allowed me to explore how deep learning model are implemented and also learned how to tune it.
