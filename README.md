@@ -12,19 +12,21 @@ As part of the fellowship, I learned and practiced using GitHub and Git. These t
 4. Writing Medium Articles:
 During the program, I honed my technical writing skills by contributing articles to Medium. This experience allowed me to share my knowledge and insights with a wider audience while enhancing my ability to communicate complex concepts in a clear and concise manner.
 
-5. Python:
+I wrote an artice on why virtual environments are important and how to create it: https://medium.com/@shahood.sajid/guide-to-virtual-environments-for-python-8485530e7d2
+
+6. Python:
 One of the focal points of the fellowship was learning and practicing Python programming. Python is a versatile and powerful language widely used in data science and machine learning. I gained proficiency in Python and applied it in various projects throughout the program.
 
-6. Object-Oriented Programming (OOP) in Python:
+7. Object-Oriented Programming (OOP) in Python:
 I also delved into object-oriented programming (OOP) in Python. I learned how to design classes, create objects, and implement inheritance, encapsulation, and polymorphism in Python.
 
-7. Data Science Libraries:
+8. Data Science Libraries:
 I explored popular data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn. These libraries are essential for data manipulation, analysis, visualization, and statistical modeling. Through hands-on exercises and projects, I gained a solid understanding of these libraries and their applications in real-world scenarios.
 
-8. Employee Classification Dataset:
+9. Employee Classification Dataset:
 As part of my practical training, I worked on an employee classification dataset. This project involved using various machine learning techniques to predict whether an employeed will be fired or not. It allowed me to apply my knowledge of data science and machine learning to a real-world problem.
 
-9. Flower Classification:
+10. Flower Classification:
 I also worked on a deep learning project. This project involved using VGG-16 deep learning model to classify 5 different flowers. It allowed me to explore how deep learning model are implemented and also learned how to tune it.
 
 9. Logistic Regression:
